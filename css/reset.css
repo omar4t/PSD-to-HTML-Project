@@ -1,0 +1,46 @@
+/* Reset CSS */
+
+body {
+    background-color: #fffefa;
+    font-family: "Frankin Gothic Book";
+    font-size: 14px;
+    color: #141414;
+    margin: 0;
+}
+
+span {
+    color: #e6a549;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2, 
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+p {
+    font-size: 15px;
+}
+
+input {
+    font-family: "Frankin Gothic Book";
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
